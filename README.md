@@ -1,5 +1,5 @@
 # The Great Jonk Dream
-Python tools for the website **hjonk.me**, a social networking service inspired by MySpace, old Twitter, and the stylings of Frutiger Metro.
+Python tools for the website [hjonk.me](https://hjonk.me), a social networking service inspired by MySpace, old Twitter, and the stylings of Frutiger Metro.
 ## Requirements
 - Python 3.14 (... or just any modern version of python)
 - requests, json, and pathlib modules
